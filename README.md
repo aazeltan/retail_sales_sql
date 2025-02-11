@@ -5,8 +5,8 @@
 **Project Title**: Retail Sales Analysis  
 
 Beginner SQL Skills Demonstrated: 
-- exploration,
-- cleaning,
+- exploration
+- cleaning
 - analysis 
 
 
